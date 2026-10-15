@@ -1,6 +1,6 @@
 cask "onebox" do
-  version "0.3.4"
-  sha256 "b0251606ed5d4c6f1aa5d8ebd12cc409187307310e8759293b3e24dceeb12564"
+  version "0.3.5"
+  sha256 "5f966d6b32a400d6a0adfb1ad7ac57628e0b04552162262e135352f4aac75d72"
 
   url "https://github.com/stek765/OneBox/releases/download/v#{version}/Onebox-#{version}-arm64.dmg"
   name "Onebox"
